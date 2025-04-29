@@ -10,79 +10,126 @@
 
 ## Group Work
 
-### Case Description
-*(Write a brief description of your group's project case: context, robot platform, application goals.)*
+## Case Description
+
+We propose using the TIAGo robot under the ROSE platform for elderly care applications, focusing on four main functions:
+
+- Help elderly people with daily tasks (such as delivering objects and information) or provide physical assistance (such as helping them stand up or sit down).
+
+- Regularly clean and organize the elderly people's living environment (or make dynamic decisions based on the situation).
+
+- Monitor the elderly people's health indicators, such as daily blood pressure measurement and basic urine tests, and send the data to medical staff and family members.
+
+- Set up an alarm function to watch the elderly people's activity status. If there is any danger, send an alarm immediately.
+
 
 ---
 
 ### Selection of Useful Design Tools
-*(List the design tools your group selected and briefly explain why they are useful.)*
+
+- **Creative Brainstorms**: Encourage out-of-the-box ideation for new functionalities.
+- **Wizard of Oz Prototyping**: Simulate robot behavior to collect early user feedback before technical development.
+- **Persona Method**: Build detailed user profiles to tailor robot interaction patterns.
 
 ---
 
 ### Mindmap of Problem Space
-*(Insert or describe the mindmap showing your problem space exploration.)*
+
+*(Mindmap created — major branches: elderly daily needs, physical limitations, emotional support, health monitoring, safety concerns, social communication.)*
 
 ---
 
 ### Potential Building Blocks
-*(List and explain the core building blocks/components identified in your solution.)*
+
+- Object recognition and grasping module
+- Navigation and mapping system
+- Health measurement sensors
+- Dialog system with context awareness
+- Cleaning/maintenance accessories
 
 ---
 
 ### Functional Breakdown
-*(Describe the breakdown of functions, systems, and responsibilities for your robot design.)*
+
+| Functionality | Building Block | Testing Method |
+|---------------|----------------|----------------|
+| Fetching objects | Gripper + Visual Recognition | Wizard of Oz simulation |
+| Monitoring health | Sensors + Reporting System | Simulated sensor data |
+| Cleaning support | Navigation + Accessories | Manual control emulation |
+| Emotional support | Dialog System | Improv theatre-based evaluation |
 
 ---
 
 ### Potential Experimental Approach
-*(Suggest an experimental setup to test your robot design idea.)*
+
+- **Theatrical Exercise**:  
+Use improv acting to simulate realistic elderly care scenarios, testing robot interventions. Actors play elderly users and robot puppeteers.
+- **Wizard of Oz Trials**:  
+Human operators control robot responses to measure emotional impact and usability before building full autonomy.
 
 ---
 
 ### Pitch / Slide
-*(Insert a short pitch text or link to your pitch slides.)*
+
+*(One-slide summary prepared: "Care Companion Robot for Aging in Place")*
 
 ---
 
 ## Reflections
 
 ### How is Design Research linked to HRI
-*(Reflect on how human-centered design methods influence human-robot interaction outcomes.)*
+
+Design research promotes a deep understanding of human needs, emotions, and behaviors when interacting with robots.  
+Unlike traditional engineering approaches, it emphasizes user-centered iteration and real-world contextual insights, shifting robot development from functional correctness to relational effectiveness.
 
 ---
 
 ### Digital (AI) vs Embodiment
-*(Discuss the differences between digital AI agents (chatbots) and embodied robots.)*
+
+While digital AIs (e.g., chatbots) provide functional assistance, physical embodiment offers richer, multi-sensory interaction.  
+Touch, movement, presence — these create emotional resonance that pure text or voice interfaces cannot replicate. Embodied robots foster trust and engagement in ways that purely digital agents struggle to achieve.
 
 ---
 
 ### Why is "HER" (not) a Compelling Argument?
-*(Reflect on the plausibility of forming emotional relationships with intangible AI, inspired by the movie *Her*.)*
+
+After reflecting on the movie *Her*, while digital-only relationships may offer emotional attachment, the absence of physical presence limits deep bonding.  
+In my view, embodiment plays a critical role in making social interaction truly fulfilling; intangible AI lacks grounding in our sensory experience of reality.
 
 ---
 
 ### Reflection: The Robot Revolution - When?
-*(Share your thoughts about when the robot revolution might happen, and why.)*
+
+The robot revolution will accelerate when robot capabilities meaningfully enhance life quality in caregiving, companionship, and personalized assistance.  
+Not just efficiency, but emotional intelligence will become the key driver for widespread social robot adoption.
 
 ---
 
 ### Reflection: The Dinosaur Hotel
-*(Analyze the case of the "Dinosaur Hotel" and lessons learned about service robots.)*
+
+The failure of the Henn na Hotel highlights the gap between robotic novelty and genuine service needs.  
+Flexibility, empathy, and improvisational problem-solving — traits still dominated by humans — were missing, leading to disappointing user experiences.
 
 ---
 
 ### Reflection: Nabaztag
-*(Reflect on the Nabaztag experience and what it teaches about user expectations and robot design.)*
+
+Nabaztag represented an early attempt at physical social interfaces.  
+However, its limited interactivity and inability to evolve emotionally with users prevented it from sustaining long-term engagement, highlighting the importance of continuous emotional development in social robots.
 
 ---
 
 ### Reflection: Cuddlebits
-*(Discuss how the Cuddlebits design taps into human emotional responses.)*
+
+The Cuddlebits project shows that vulnerability, subtle emotional cues, and touch responsiveness can build powerful human-robot bonds — sometimes more effectively than complex intelligence.  
+It reminds designers that "less" (simpler behaviors) can often be "more" (stronger emotional connection).
 
 ---
 
 ### Reflection: Be-Right-Back
-*(Critique the "Be-Right-Back" concept and its implications for emotional well-being and ethics.)*
+
+The "Be-Right-Back" concept raises serious ethical concerns.  
+Simulating deceased loved ones may delay emotional healing and foster dependence on illusions.  
+Despite technical feasibility, emotionally and ethically, real closure — not digital echoes — remains crucial for human well-being.
 
 ---
