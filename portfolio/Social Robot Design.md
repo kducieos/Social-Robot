@@ -426,64 +426,27 @@ If we want to design an “anti-social robot,” we first need to think about th
 
 ---
 
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+### Reflection: is the discussion on embodied agents v.s. virtual agents still a relevant form? Can you find other (hybrid) shapes too?
 
-When
-
-
----
-
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
-
-When
-
+This discussion is still meaningful now. In different use situations, people have different feelings about “real” or “virtual.” For example, in elder care, a real robot can give more safety and company feelings, but a virtual assistant, though convenient, may not build real trust and dependence. There are also some hybrid examples. For example, some robots have a physical body, but the face and speech come from a screen with a virtual character. Or some virtual agents work together with smart home devices and use lights or sounds to show “they are present.” These show that real and virtual are not always opposite. We can mix them depending on the target group and environment.
 
 ---
 
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+### Reflection: Can you find insights or work on dealing in a structured way with the robotic capabilities and social aspects of the design? Are they the same? Could you formulate requirements for social interaction in a similar (structural) way as 'normal' engineering requirements are formulated?
 
-When
-
-
----
-
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
-
-When
-
+Some research tries to write “social ability” in a structured way. For example, we can divide social design into perception, expression, and regulation. Each part can have its own “subsystem.” We can write clear interaction needs like “robot must respond in 3 seconds,” or “gesture must match the speech,” or “robot should start small talk every 10 minutes.” These methods show we can write “social requirements” just like we write technical ones. For example, “greet softly when user comes close,” or “give emotional feedback when user is quiet for a long time.” So social and technical needs are not the same, but we can use a similar way to design both.
 
 ---
 
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+### Reflection:Can you find examples where there is a clear conflict in design aspects that come from 'function defines form' and from social requirements? Can you come up with a design that has a very good match?
 
-When
-
----
-
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
-
-When
+Yes. For example, in hospitals, care robots face a conflict. From function side, they should be small, fast, and accurate. But from social side, if they look too mechanical or cold, patients feel uncomfortable. If we design for tools, they look “unfriendly.” If we design for emotions, they may lose function. A good example is Paro the seal robot. Its function is simple (emotional support), so all design can focus on being social. It uses soft cover, slow motion, and quiet voice to build emotional connection. For our elder care robot, we can design it like this: stable body, round edges, warm colors. The hand can be metal for function, but covered by soft removable layer. Its speech and motion should be slow, clear, and non-threatening. This can balance both function and social needs.
 
 ---
 
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+### Reflection: Duffy (see below) formulated a nice reference list of aspects relevant for design of embodiment. Which of these are the most relevant for your case?
 
-When
+Duffy listed many things like presence, expressivity, social role, body structure, and interaction adaptability. For our elder care robot, some are most important. First, expressivity. Elders understand more through body motion, so actions should be clear and with rhythm. Second, social role. The robot should be a “helper” or “companion,” not too strict or cold. Third, presence. The robot should have a clear position and space reaction, so people feel “it is here,” not just a voice. Fourth, adaptability. The robot should react to different elder states, like being okay with slow speech or weak actions. These points help us build a robot that is not only useful, but also trusted and accepted.
 
----
-
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
-
-When
 
 ---
-
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
-
-When
-
----
-
-### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
-
-When
