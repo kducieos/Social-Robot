@@ -340,3 +340,60 @@ Nabaztag was a social interface for the Internet of Things. Its good point was t
 The Cuddlebits project focused on using small movements and soft looks to build emotional connection. It also used long-term interaction to understand the “social gap” between human and robot. This shows that design research is not just about looks. It is also about using everyday experience to test and improve emotional design.
 
 ---
+
+### Reflection: How can you classify stories about robots/AI?
+
+First, I will classify them by story type. By looking at famous series or films, we can make examples like:
+    Science fiction (like I, Robot): talks about future technology and how it affects human society;
+    Horror (like Black Mirror): shows fear from technology that goes out of control;
+    Drama (like Robot & Frank): focuses on relationships and growth between human and AI;
+    Romance (like Her): shows how humans may build emotional connection with AI (even though it seems to end badly!).
+
+For the ethics side, we can also divide stories by positive or negative endings, like:
+    AI/robots help humans and live in harmony;
+    AI fights back or humans lose control and disasters happen;
+    Or even give a vague ending: raising moral questions but not giving a clear answer, letting the audience think for themselves.
+    This kind of classification helps us understand how humans "practice" possible futures with robots in stories.
+
+---
+
+### Reflection: What is the difference between Johnson’s science fiction prototyping and traditional scenario-based design?
+
+Johnson’s Science Fiction Prototyping (SFP) is a method that uses made-up stories to explore the future of technology. Its features are:
+    Story comes first, and it focuses on how technology may affect society, ethics, and human emotions; The stories usually have full characters, situations, and background, so readers can understand future tech from the “user’s view”; It cares more about “emotional connection” than “technical possibility.”
+But traditional Scenario-based Design, like Stanford explained, focuses more on: Making use situations based on user needs; Solving real problems clearly, with step-by-step logic; It cares more about system and usability.
+The main difference is:
+In SFP, the robot is more like a character in the story, helping the plot move. However in scenario-based design, the robot is a function tool, to help users reach a goal.
+
+---
+
+### Reflection: How did the 21st Century Robot project create a NAO-like personality? How did the story evolve?
+
+This project changed step by step from idea to final product. The process can be divided into:
+    Idea stage: Johnson imagined a robot platform where users can co-create the personality and story. This supports personal creativity. Technology limitation stage: Because of real-life limits (like voice recognition and emotion modeling), the design became simpler, and moved to a NAO-like robot that is easy to control and works stably. Product integration stage: To enter the market and education field, the robot finally used a standard shape and only a small “human-like” personality. It became a “predictable” and neutral social robot.
+
+If the story wanted to “go further,” it may need: A more open programming system (so users can really build a special personality); Better multi-modal interaction (like gesture and emotion recognition); A stronger story background (for example, a robot that grows up with family members).
+
+---
+
+### Reflection: What kind of stories are told to customers when selling products? How are they different from reality?
+
+The stories used in product selling usually focus on emotional connection between human and product, like “grow up with your child,” or “take care of older family. They also use clear scenes (home, school, hospital) so customers can “imagine” how to use the product. They make users feel they are buying “a friend with a soul,” not just a machine.
+But to sell better, they sometimes skip real limits, like errors in voice recognition or low emotion detection accuracy. The goal of these stories is not to show technical truth, but to touch the customer’s feelings, so they will accept and buy. These stories are often different from real use, but this is a planned strategy in storytelling.
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When designing social robots, the following story elements should be carefully considered:
+    User’s story expectation: for example, children may want robots with fairy tale traits, while older people may want family-style support.
+    Background setting: where does the robot come from? Why is it here with the user? This helps users accept the robot.
+    Development path: can the robot grow with the user, make memories? A growing story increases user involvement.
+Uncanny Valley is connected to story. If the designer wants users to feel “awe,” “doubt,” or “distance,” then using a mysterious and unclear story background can make this stronger.
+But if the goal is to make the robot “cute” or “natural,” then a warm and relaxed story can reduce the strange feeling.
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
