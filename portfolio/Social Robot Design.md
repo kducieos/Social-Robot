@@ -106,12 +106,6 @@ Can be derived in the Mindmap
 #### Assising health assessment
 
 
-### Potential Experimental Approach
-*(To be added)*
-
-### Pitch / Slide
-*(To be added)*
-
 ---
 
 ### Expressiveness
