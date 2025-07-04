@@ -394,6 +394,96 @@ But if the goal is to make the robot “cute” or “natural,” then a warm an
 
 ---
 
+### Reflection: The paper by Ju&Hoffmann (Design with motion in mind) is a very good source on using motion in your design(process). Which lessons would apply to your case?
+
+The article by Ju and Hoffmann says that when we design robot motion, we should not only think about whether the action is technically possible, but also think about how people will “feel” or “see” that action. For our elder care robot, some lessons are especially useful. First, the robot’s movement should be soft and slow. Elderly people may feel scared or nervous if the robot moves too fast or too suddenly. So the movement needs to feel safe and predictable. Second, motion should express intention. For example, when the robot stretches out its arm, it may not be trying to grab something, but showing “I want to help you” or “please follow me.” Third, motion should be part of communication. Small gestures like nodding, turning the head, or slightly turning the body can make the robot feel more like an intentional being to the elderly.
+
+---
+
+### Reflection: An often used tool for analysis of motion is the Laban Framework. can you give some good sources where it is applied to HRI, but (more importantly) can you also find one or two alternatives? (So, the question here is why 'Robot Motion' + 'Theatre' = Laban seems to be the main route)
+
+The Laban movement analysis framework was first used in dance and theatre. It helps people describe and understand motion using space, force, and timing. It is used in robots because it gives a structured way to make robot movements look emotional and purposeful, like how actors perform. But it also has limits, because it is too focused on human-like movement. Some alternatives are: first, Kansei Engineering. It designs based on how humans feel things, like “comfortable” or “friendly.” This fits elder care robots. Second, Expressive Motion Planning. It starts from what the robot can do, and lets the motion express feelings while still doing real tasks. It does not try to look like a human, but focuses on making movement meaningful.
+
+
+---
+
+### Reflection: Reflect on the following statement: To design a social robot and its communication we might need to take into account the way people parse behaviours and not necessarily replicate one-o-one human-like behaviour. Every robot can be interpreted as social if it displays animacy, agency (intentional behavior); which method would you use to design movement to achieve intentionality without relying on behaviours modelled on human behaviour?
+
+To make a robot look like it has intention, it doesn’t have to move like a human. We can try different ideas. First, use special robot parts. For example, a screen can show symbols or animations to express ideas, like a heart to show care. A metal arm can point or welcome someone by changing its angle or direction. Second, make a clear “cause–action–result” chain. If the robot sees that an elder has fallen, it leans forward, lights up, and speaks. This clear reaction makes people think it has purpose. Third, use rhythm and repetition. People often think something is alive if it repeats movement. So if the robot moves with a little rhythm and repetition, it looks more like it has a mind.
+
+---
+
+### Reflection: So far we have focussed mainly on motion as a means for expression. Can you find fundamental insights (such as the Laban framework for motion) that gives you a starting point for sound design? or haptics? or morphology?
+
+We can think from haptics. For elder care robots, touch is very important. First, older people may not see or hear well, but they can still feel touch. So good haptic design can improve interaction. Second, haptics can express emotion. A soft vibration can mean a light pat on the shoulder. A gentle warm surface can mean comfort. Third, haptics can guide action. A soft pull on the hand can tell the elder to lift their hand or stand up. This shows that we don’t need only visual or audio cues to communicate. We can also build trust and emotion through touch.
+
+---
+
+### Reflection: If a large part of the design work seems to evolve around making robots sociable, what would the design space of a (deliberately) anti-social robot look like?
+
+If we want to design an “anti-social robot,” we first need to think about the situation. Anti-social does not mean bad. It may be useful in special places. First, in warning or reminder scenes. For example, in a hospital, it can remind patients to return to their room. It doesn’t need to be kind, but firm. Second, security robots. At night, they patrol and don’t talk too much with people. Keeping a distance can be better. Third, automatic managers. Like in a library or lab, it just helps keep order. It can be designed to look cold or neutral on purpose. Compared to normal social robots, anti-social robots may look simpler, without facial expressions, so people don’t feel emotional connection. Its movement is fast and efficient, not friendly. It doesn’t start a conversation but only reacts when needed. This shows that being “not social” is also a design style, depending on the context.
+
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+---
+
+### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
+
+When
+
+---
+
 ### Reflection: What storytelling elements should be considered when designing social robots? Is uncanny valley related to story?
 
 When
