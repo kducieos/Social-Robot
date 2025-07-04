@@ -301,57 +301,42 @@ This long-term change needs to be considered in the design stage to ensure that 
 
 ### How is Design Research linked to HRI
 
-Design research promotes a deep understanding of human needs, emotions, and behaviors when interacting with robots.  
-Unlike traditional engineering approaches, it emphasizes user-centered iteration and real-world contextual insights, shifting robot development from functional correctness to relational effectiveness.
+Chapter 8 says design research can connect with HRI in these ways: Research through Design means using prototypes to explore how people feel, trust, and interact with social robots. Participatory Design invites possible users to help design the robot’s shape, behavior, and feedback. This can help make the robot more like what users want. These methods all focus on human-centered thinking and give practical ways to study HRI.
 
 ---
 
 ### Digital (AI) vs Embodiment
 
-While digital AIs (e.g., chatbots) provide functional assistance, physical embodiment offers richer, multi-sensory interaction.  
-Touch, movement, presence — these create emotional resonance that pure text or voice interfaces cannot replicate. Embodied robots foster trust and engagement in ways that purely digital agents struggle to achieve.
+Even though people today can interact well with simple square devices, Chapter 9 says: actuators are not always needed. Voice, emojis, and haptic feedback can already create a social feeling. Smartphones can be social because they have sensors (like camera and microphone) and smart voice assistants. These small “embodied” features help blur the line between device and person in experience.
 
 ---
 
 ### Why is "HER" (not) a Compelling Argument?
 
-After reflecting on the movie *Her*, while digital-only relationships may offer emotional attachment, the absence of physical presence limits deep bonding.  
-In my view, embodiment plays a critical role in making social interaction truly fulfilling; intangible AI lacks grounding in our sensory experience of reality.
+In Her, the main character builds a deep emotional connection with the AI assistant just by talking. This shows that social interaction depends on language, empathy, and response—not physical form. So Her shows that even without actuators, an AI can still be a “social robot.” This makes us think again: maybe embodiment is not necessary, but just a way to make the experience better.
 
 ---
 
 ### Reflection: The Robot Revolution - When?
 
-The robot revolution will accelerate when robot capabilities meaningfully enhance life quality in caregiving, companionship, and personalized assistance.  
-Not just efficiency, but emotional intelligence will become the key driver for widespread social robot adoption.
+Compared to the positive predictions by Bar-Cohen and others, real robot development is still far from a “revolution.” The main reasons are: Technology is still slow, especially in human-robot teamwork, natural language, and emotion understanding. Real needs are different from the ideal plan. In real life, invisible automation is more common in industry and logistics, not human-like robots. So the robot revolution is still moving slowly, and real social use is still far away.
 
 ---
 
 ### Reflection: The Dinosaur Hotel
 
-The failure of the Henn na Hotel highlights the gap between robotic novelty and genuine service needs.  
-Flexibility, empathy, and improvisational problem-solving — traits still dominated by humans — were missing, leading to disappointing user experiences.
+The problem of the Dinosaur Hotel is: the robot service was too simple. It only did basic front desk work and had no cultural meaning or deep interaction. Compared to hotels like CitizenM that use smart automation with human help, the robot hotel failed to make a good service system. The key to success is not “how complex the robot is,” but whether it can build a low-cost and meaningful service experience.
 
 ---
 
 ### Reflection: Nabaztag
 
-Nabaztag represented an early attempt at physical social interfaces.  
-However, its limited interactivity and inability to evolve emotionally with users prevented it from sustaining long-term engagement, highlighting the importance of continuous emotional development in social robots.
+Nabaztag was a social interface for the Internet of Things. Its good point was trying to give internet functions a body and a personality. But it had no clear useful purpose and weak social features. It was just a “cute toy.” It failed because the interaction was too shallow, personality not strong, and content too weak. Users lost interest fast. This shows that social robots can’t just be cute in appearance. They also need better function and user experience.
 
 ---
 
 ### Reflection: Cuddlebits
 
-The Cuddlebits project shows that vulnerability, subtle emotional cues, and touch responsiveness can build powerful human-robot bonds — sometimes more effectively than complex intelligence.  
-It reminds designers that "less" (simpler behaviors) can often be "more" (stronger emotional connection).
-
----
-
-### Reflection: Be-Right-Back
-
-The "Be-Right-Back" concept raises serious ethical concerns.  
-Simulating deceased loved ones may delay emotional healing and foster dependence on illusions.  
-Despite technical feasibility, emotionally and ethically, real closure — not digital echoes — remains crucial for human well-being.
+The Cuddlebits project focused on using small movements and soft looks to build emotional connection. It also used long-term interaction to understand the “social gap” between human and robot. This shows that design research is not just about looks. It is also about using everyday experience to test and improve emotional design.
 
 ---
