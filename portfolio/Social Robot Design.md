@@ -98,7 +98,7 @@ Our case is to apply the ROSE robot in elderly care to accomplish three applicat
 
 
 ### Pitch / Slide
-![Pitch](robotpitch.pdf)
+[View Pitch Slide](robotpitch.pdf)
 
 
 </details>
