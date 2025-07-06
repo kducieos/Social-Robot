@@ -4,7 +4,7 @@
 
 | Name        | Introduction | Personal Page |
 |-------------|---------------|---------------|
-| Tianshu Cao | Master student in Human-Computer Interaction and Design (HCID, EIT). Studying at the University of Twente and Aalto University. Background in New Media Technology. Interested in user experience design, human-robot interaction, independent game development, and visual arts. | [CV](portfolio/Tianshu_Cao_CV.md) |
+| Tianshu Cao | Master student in Human-Computer Interaction and Design (HCID, EIT). Studying at the University of Twente and Aalto University. Background in New Media Technology. Interested in user experience design, human-robot interaction, independent game development, and visual arts. | [CV](./Tianshu_Cao_CV.md) |
 
 ---
 
