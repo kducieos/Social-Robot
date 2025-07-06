@@ -8,10 +8,11 @@
 
 ---
 
+
 ## Group Work
 
 <details>
-<summary><strong> Case 1: ROSE </strong></summary>
+<summary><strong> Case : ROSE </strong></summary>
 
 ### Case Description
 ROSE (Robot Operating System Environment) is a social robot development platform based on ROS, often using the TIAGo robot manufactured by PAL Robotics as its hardware foundation. TIAGo is a multifunctional robot that integrates a mobile base, robotic arm, elevating torso, and a variety of sensors (such as lidar, RGB-D cameras, etc.), and is widely used in research, education, and human-robot interaction fields. 
@@ -35,8 +36,80 @@ Application Scenarios
 (3) Health/nutrition advice: Potential future use cases hinted through the broader categories in the tool list.
 #### Our case
 Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
+</details>
 
-### Selection of Useful Design Tools
+---
+
+<details>
+<summary><strong> Overview Design </strong></summary>
+
+### Mindmap of Problem Space
+![Mindmap of Problem Space](Mindmap.png)
+
+### Potential Building Blocks
+#### Perception and Sensing
+- Camera
+- Lidar
+- Microphone/Speaker
+- Medical Sensors
+#### Robot Mobility & Manipulation
+- Arm Manipulation
+- Mobile Control
+#### Human-Robot Interaction
+- NLP
+- Touchscreen interface
+#### Alert System
+#### System integration
+
+### Functional Breakdown
+#### Assist in Retrieving Objects
+- Environment Perception and Object detection
+- Understand Human Commands
+- Navigation
+- Manipulate and Retrieve object
+- Deliver Object to Elderly
+
+#### Maintain clean and tidy environment
+- Detect Mess / Dirt / Items Out of Place
+- Plan Cleaning or Tidy Task
+- Simple Manipulations
+- Navigation
+
+#### Support Daily Health Self-Assessment
+- Prompt and Guide Elderly
+- Integrate with Medical Devices
+- Record and Analyze Results
+- Communicate with Caregiver if Needed
+
+### Potential Experimental approach
+#### Verify that robot can complete tasks autonomously
+#### Evaluate naturalness, trust, and ease of use
+#### Observe learning curve and routine integration
+
+| Aspect                | Metric/Tool                            |
+| --------------------- | -------------------------------------- |
+| Task performance      | Task success rate, time, failure modes |
+| HRI usability         | SUS, NASA TLX, interaction steps       |
+| Trust & acceptance    | Almere Model Questionnaire             |
+| Speech recognition    | Command success rate, retry frequency  |
+| Grasping accuracy     | Grasp success rate, misplacement rate  |
+| System robustness     | Downtime, recovery from error          |
+| Data privacy handling | Consent protocol, encryption logs      |
+
+
+### Pitch / Slide
+![Pitch](robotpitch.pdf)
+
+
+</details>
+
+---
+
+
+<details>
+<summary><strong> Selection of Useful Design Tools </strong></summary>
+
+  
 #### Senario Analysis
 References:
 
@@ -62,9 +135,13 @@ Wizard of Oz, through the design of restricted perception experiments, simulates
 
 
 #### Lego Series
+</details>
 
+---
 
-### Senarios
+<details>
+<summary><strong> Scenarios </strong></summary>
+
 For the interaction between users and robots to be appropriate and sustainable, it is necessary to reduce the influence of uncertainty and negative emotions. Therefore, in addition to the robot's own understanding ability of semantics, it is also necessary to consider different scenarios where users have varying levels of trust in the robot.
 [Miller Linda , Kraus Johannes , Babel Franziska , Baumann Martin, "More Than a Feeling—Interrelation of Trust Layers in Human-Robot Interaction and the Role of User Dispositions and State Anxiety," 2021 Vol12 Frontiers in Psychology, doi:10.3389/fpsyg.2021.592711](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.592711
 )
@@ -92,23 +169,17 @@ One night, because the robot had failed to charge successfully during the day, i
 Although the robot detected the problem and called her daughter and the nearby medical center in time, and the result showed that Mary’s body was fine, she still refused to keep the robot at home again.
 
 Problems with this scenario response: The robot can rocognize people’s emotion and other data and try to offer help. But users’trust to the robot are so low that even they share the same goal, the users still cannot accept the robot’s help as a daily routine.
-### Mindmap of Problem Space
-![Mindmap of Problem Space](Mindmap.png)
 
-### Potential Building Blocks
-Can be derived in the Mindmap
+#### Result
+The Trust × Understanding Matrix reveals key problems in user–robot interaction. Low trust and low understanding cause fear and miscommunication, as seen with Bob. High trust and low understanding lead to user tolerance but task failure, like with Grandma Zhang. Low trust and high understanding, as with Mary, turn helpful actions into perceived threats. Only high trust and high understanding create smooth interaction. The method helps spot these mismatches and guides design fixes like better emotion detection, task logic, and transparent robot behavior.
 
-### Functional Breakdown
-#### Getting items
-
-#### Cleaning environment
-
-#### Assising health assessment
+</details>
 
 
 ---
 
-### Expressiveness
+<details>
+<summary><strong> Expressiveness </strong></summary>
 observation of paper-puppeteering：
 
 observation recording: https://youtu.be/jthQCp5BSxM
@@ -176,9 +247,24 @@ Allow users to quickly combine and test interactive expressions by mapping cards
 
 Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "robot notices user falls", "robot prompts relatives to call via video", etc. Participants use the EMO-CUE tool to interpret robot roles with expressive actions without using language.
 
+</details>
+
 ---
 
-### Design Behavior  
+
+<details>
+<summary><strong> Embodiment </strong></summary>
+
+![embodiment1](embodiment1.png)
+
+![embodiment2](embodiment2.png)
+
+</details>
+
+---
+<details>
+<summary><strong>  Design Behavior   </strong></summary>
+
 **Function: Helping with hard-to-reach items, cleaning, and health self-assessment**
 
 ![Social Robot Behavior](SocialRobotBehavior.png)
@@ -268,9 +354,19 @@ Provide nursing scenario scripts, such as "elderly hesitant to take medicine", "
 - `Role-aware access control`  
 - `Affective computing (respectful tone and privacy handling)`
 
+### Result
+The tool helped design five clear care scenarios for the ROSE robot. Each one shows a daily task with short dialogue and needed technologies. Tasks include reaching items, cleaning, health checks, and sharing results. The method links user intent to robot actions. It highlights key tech like speech, vision, and safe touch. It also shows the need for context, emotion, and privacy. This supports clear, human-friendly robot design.
+
+
+
+</details>
+
+
 ---
 
-### Sustainability and ethics
+
+<details>
+<summary><strong> Sustainability and ethics </strong></summary>
 Envisioning Cards are a practical design tool developed to translate complex theoretical concepts—especially from Value Sensitive Design (VSD) and Multi-lifespan Design (MLD)—into concrete actions for designers. [Yoo, Daisy and Logler, Nick and Ballard, Stephanie and Friedman, Batya, "Multi-lifespan Envisioning Cards: Journeying from Design Theory to Tools for Action,"2022, Association for Computing Machinery](https://dl.acm.org/doi/pdf/10.1145/3532106.3533495)
 By applying the four aspects of the envision card: Changing Hands, Environmental Sustainability, The Long Now, Work of the Future, we can consider the ethical issues of robots and their relationship with people during the design process.
 
@@ -284,9 +380,11 @@ According to the envision cards "The Long Now", we envision a 50-year old who ha
 At the age of 50, the robot intervenes in life as a practical tool, but not a core part of life. By the age of 55, the elderly have become accustomed to the company of the robot and begin to rely more on the robot for daily reminders and health monitoring. At the age of 60, the elderly may be highly dependent on the robot both physically and emotionally, and the family also fully trusts the robot to take care of the elderly. At the age of 70, the robot even replaces the elderly's existing interpersonal relationships to some extent, weakening personal autonomy and initiative.
 The ethical concern highlighted here is that over-reliance on robots may lead to social isolation over time, weakening the connection between people and human communities.
 This long-term change needs to be considered in the design stage to ensure that robots complement rather than replace the care of the elderly, and promote relationships between people rather than isolate people's social relationship.
-####
 
-####
+### Result
+The Envisioning Cards tool helped us reflect on long-term robot use. “Changing Hands” shows the need for memory transfer, modular design, and privacy when ownership changes. “The Long Now” warns against over-reliance and social isolation. These cards guide designers to protect users, plan for time, and support human relationships.
+
+
 </details>
 
 
